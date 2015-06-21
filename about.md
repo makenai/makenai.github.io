@@ -12,11 +12,14 @@ He currently works at [Wedgies](http://wedgies.com), but has worked at other pla
 
 - [VegasJS](http://javascript.vegas) - Las Vegas JavaScript meetup (organizer)
 - [Maker Faire Vegas](http://makerfairevegas.com) - Las Vegas Mini Maker Faire (organizer)
-- [JavaScript Robotics](http://www.amazon.com/Make-JavaScript-Johnny-Five-Raspberry-BeagleBone/dp/1457186950) - Wrote the chapter on delta robots & kinematics (co-author)
+- [Make : JavaScript Robotics](http://www.amazon.com/Make-JavaScript-Johnny-Five-Raspberry-BeagleBone/dp/1457186950) - Wrote the chapter on delta robots & kinematics (co-author)
 - [SumobotKit](http://sumobotkit.com) - Open source robot chassis for nodebots and more
 - [DangerToGo](http://dangertogo.com) - Something something Zelda
 - [Lathe-R-Beam](http://makenai.github.io/Lathe-R-Beam) - Make 3D models using a virtual late
 
+### Talks
+
+- [1x1 GIFs](https://www.youtube.com/watch?v=ZfPmuuH8f6g) - JSFest 2014 / DHTMLConf 2000
 
 ### Contact me
 
