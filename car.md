@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Car
+title: Should I buy this car?
 permalink: /car/
 ---
-
-#Should I buy this car?
 
 ## Current Car
 
