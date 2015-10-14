@@ -6,17 +6,16 @@ permalink: /car/
 
 ## Current Car
 
-- 2006 Toyota Highlander V6 SUV
-- Model: 2006 Toyota Highlander
-- MPG: 19 city / 25 highway
-- Horsepower: 215 HP
-- Towing capacity: 2,000 lbs
-- Engine: 3.3L V6
-- Curb weight: 3,705 lbs
+- Model: 2001 Toyota Highlander
+- MPG: 19 city / 23 highway
+- Horsepower: 220 HP
+- Towing capacity: 3,500 lbs
+- Engine: 3.0L V6
+- Curb weight: 3,660 lbs
 - Wheelbase: 106.9"
-- Cargo volume: 10.5 to 39.7 ft³, 80.6 ft³ with seat area
+- Cargo volume: 38.5 ft³, 81.4 ft³ with seat area
 - 198,000 miles
-- (I can maybe get $7000 for this car)
+- (I can maybe get $5000 for this car)
 
 ## Proposed Car
 
